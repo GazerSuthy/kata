@@ -1,3 +1,5 @@
+# Kata link: https://www.codewars.com/kata/561bed6a31daa8df7400000e 
+
 def nQueen(n):
     queen_list = []
 
